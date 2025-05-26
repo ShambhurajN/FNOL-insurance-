@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\FnolApiVersion2.O.props" />
+</Project>
